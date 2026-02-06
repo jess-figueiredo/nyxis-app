@@ -1,26 +1,26 @@
-# Política de Privacidade
+## 🔐 Política de Privacidade
 
-A sua privacidade é importante para nós. É política deste aplicativo respeitar a sua privacidade em relação a qualquer informação que possamos coletar.
+Este aplicativo respeita a privacidade dos usuários e está comprometido em proteger todas as informações coletadas.
 
-## Coleta de informações
-O aplicativo pode coletar informações básicas fornecidas pelo usuário, como nome, e-mail ou dados necessários para o funcionamento das funcionalidades oferecidas.
+### Coleta de informações
+O aplicativo pode coletar informações básicas necessárias para seu funcionamento, como:
+- Dados fornecidos pelo usuário;
+- Informações técnicas para integração com APIs de terceiros (ex: Meta / WhatsApp).
 
-## Uso das informações
-As informações coletadas são usadas apenas para:
-- Fornecer e melhorar os serviços do aplicativo
-- Garantir o funcionamento correto das integrações
-- Cumprir requisitos legais, quando aplicável
+### Uso das informações
+As informações coletadas são utilizadas exclusivamente para:
+- Funcionamento correto do aplicativo;
+- Comunicação com serviços integrados;
+- Melhoria da experiência do usuário.
 
-## Compartilhamento de dados
-Não compartilhamos informações pessoais com terceiros, exceto quando exigido por lei ou para funcionamento do serviço.
+### Compartilhamento de dados
+Os dados **não são vendidos ou compartilhados** com terceiros, exceto quando necessário para o funcionamento do serviço ou exigido por lei.
 
-## Segurança
-Empregamos medidas razoáveis para proteger as informações contra acesso não autorizado, alteração ou divulgação.
+### Segurança
+Adotamos medidas razoáveis para proteger as informações dos usuários contra acesso não autorizado.
 
-## Alterações nesta política
-Esta política pode ser atualizada periodicamente. Recomendamos que o usuário revise esta página regularmente.
+### Alterações nesta política
+Esta Política de Privacidade pode ser atualizada a qualquer momento, sem aviso prévio.
 
-## Contato
-Em caso de dúvidas sobre esta Política de Privacidade, entre em contato pelo repositório deste projeto no GitHub.
-
-Última atualização: fevereiro de 2026
+### Contato
+Em caso de dúvidas sobre esta Política de Privacidade, entre em contato pelo repositório do GitHub.
